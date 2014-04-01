@@ -65,14 +65,8 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Factorial.js" />
     <Content Include="Index.html" />
-    <Content Include="JavaScript.js" />
-    <Content Include="JavaScript1.js" />
-    <Content Include="LetterChanges.js" />
     <Content Include="library1.js" />
-    <Content Include="LongestWord.js" />
-    <Content Include="SimpleAdding.js" />
     <Content Include="StyleSheet.css" />
     <Content Include="Web.config" />
   </ItemGroup>
